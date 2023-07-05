@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ranquest
-- 👀 I’m interested in codeing and community support
+- 👀 I’m interested in coding and community support
 - 🌱 I’m currently learning html, css and javascript
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me email- coderanquest@gmail.com
